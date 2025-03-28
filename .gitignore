@@ -1,0 +1,4 @@
+# Exclude environment variable files
+.env
+.vscode
+start_servers.bat
